@@ -1,2 +1,2 @@
 # Test_Contract
-自己写的一些测试合约
+test_ERC20contract.sol ：部署ERC-20代币合约
